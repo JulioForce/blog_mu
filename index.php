@@ -2,7 +2,7 @@
 include_once 'app/Conexion.inc.php';
 include_once 'app/RepositorioUsuario.inc.php';
 
-$titulo = 'Mundo Urabá';
+$titulo = 'Mundo JForce';
 
 include_once 'plantillas/documentoDeclaracion.inc.php';
 include_once 'plantillas/navbar.inc.php';
@@ -14,7 +14,7 @@ include_once 'plantillas/navbar.inc.php';
                         <div class="col-md-12">
                             <div class="panel panel-default">
                                 <div class="panel-heading">
-                                    <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Últimas entradas
+                                    <span aria-hidden="true"></span> Últimas entradas
                                 </div>
                                 <div class="panel-body">                                    
                                     <p>Todavía no hay entradas.</p>
@@ -43,7 +43,7 @@ include_once 'plantillas/navbar.inc.php';
                         <div class="col-md-12">
                             <div class="panel panel-default">
                                 <div class="panel-heading">
-                                   <span class="glyphicon glyphicon-filter" aria-hidden="true"></span> Filtro
+                                   <span aria-hidden="true"></span> Filtro
                                 </div>
                                 <div class="panel-body">
                                     
@@ -55,7 +55,7 @@ include_once 'plantillas/navbar.inc.php';
                         <div class="col-md-12">
                             <div class="panel panel-default">
                                 <div class="panel-heading">
-                                   <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Archivo
+                                   <span aria-hidden="true"></span> Archivo
                                 </div>
                                 <div class="panel-body">                                    
                                 </div>

@@ -1,7 +1,7 @@
 
 
 .navbar{
-    background-color: #2b2b2b;
+    background-color: #0B3954;
     border-style: none;
 }
 
@@ -10,7 +10,7 @@
 }
 
 .navbar-brand:hover, .navbar-brand:active {
-    color: white !important;
+    color: #E0FF4F !important;
 }
 
 #navbar li a:link, .navbar li a:visited {
@@ -18,7 +18,7 @@
 }
 
 #navbar li a:hover, .navbar li a:active {
-    color: #3DCCC7 !important;
+    color: #E0FF4F !important;
 }
 
 .navbar-toggle:hover, .navbar-toggle:active{
@@ -36,22 +36,22 @@
 
 .jumbotron {
     background-color: white;
-    color: #3DCCC7;
+    color: #0B3954;
 }
 
 .panel{
     border-style: none;
 }
 .panel-heading{
-    background-color: #3DCCC7 !important;
-    color: #C4FFF9 !important;
+    background-color: #0B3954 !important;
+    color: rgb(255, 255, 255) !important;
     border-style: none !important;
     border-radius: 0px;
 }
 
 .panel-body{
     
-    color: #2b2b2b !important;
+    color: #0B3954 !important;
     border-style: none !important;
     border-radius: 0px;
 }

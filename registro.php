@@ -51,7 +51,7 @@ include_once 'plantillas/navbar.inc.php';
                 <div class="panel-body">
                     <br>
                     <p class="text-justify">
-                        Para unirte al blog de Mundo Urabá introduce un nombre de usuario,
+                        Para unirte al blog de Mundo JForce introduce un nombre de usuario,
                         tu email y una contraseña. <br>
                         El email que escribas debe ser real ya que lo necesitarás para gestionar tu cuenta.<br>
                         Te recomendamos que uses una contraseña que contenga minúsculas, mayúsculas, números y símbolos.
